@@ -1,0 +1,23 @@
+body {
+    background: black url("../img/concert.jpg") no-repeat fixed center; 
+}
+
+a {
+    color: inherit; /* remove specific URL color */
+    text-decoration: none; /* no underline */
+}
+
+a:hover {
+    color: graytext;
+}
+
+/*Sheetmusic's' style*/
+.padding {
+    margin: 5% !important;
+    padding: 2% !important;
+    background-color: rgba(216, 216, 216, 0.5);
+}
+
+.musicsheet {
+    height: 20%;
+}
