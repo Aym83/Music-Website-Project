@@ -13,9 +13,11 @@ and open the template in the editor.
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
         <link rel="stylesheet" type="text/css" href="css/style.css">
     </head>
+    
     <body>
         <!-- Load header -->
         <?php include("header.html") ?>
+        <?php include("signup.html") ?>
         <div class="padding border border-dark">
             <div class="row">
                 <div class="col-md-4">
